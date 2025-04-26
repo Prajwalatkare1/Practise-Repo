@@ -1,0 +1,7 @@
+﻿[26/05/23 01:15:15] info: Program: Starting Squirrel Updater: --update https://central.github.com/api/deployments/desktop/desktop/latest?version=3.0.3&env=production&guid=21aa864c-9090-4760-abba-900f078d0ddf
+[26/05/23 01:15:15] info: Program: Starting update, downloading from https://central.github.com/api/deployments/desktop/desktop/latest?version=3.0.3&env=production&guid=21aa864c-9090-4760-abba-900f078d0ddf
+[26/05/23 01:15:15] info: Program: About to update to: C:\Users\DELL\AppData\Local\GitHubDesktop
+[26/05/23 01:15:15] info: CheckForUpdateImpl: Using existing staging user ID: a344e7fb-7b4c-536f-ab77-9cdf4fe41c22
+[26/05/23 01:15:15] info: CheckForUpdateImpl: Downloading RELEASES file from https://central.github.com/api/deployments/desktop/desktop/latest?version=3.0.3&env=production&guid=21aa864c-9090-4760-abba-900f078d0ddf
+[26/05/23 01:15:15] info: FileDownloader: Downloading url: https://central.github.com/api/deployments/desktop/desktop/latest/RELEASES?version=3.0.3&env=production&guid=21aa864c-9090-4760-abba-900f078d0ddf&id=GitHubDesktop&localVersion=3.0.3&arch=amd64
+[26/05/23 01:15:16] info: FileDownloader: Downloading file: https://central.github.com/api/deployments/desktop/desktop/latest/GitHubDesktop-3.2.3-full.nupkg
